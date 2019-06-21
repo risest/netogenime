@@ -122,11 +122,8 @@ function auto_safeconvert() {
     /*TAMBAH DISINI LINK POSTINGANNYA*/
     
     var daftarPostingan = [
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
+      "https://lewattin.blogspot.com/2019/06/akhir-akhir-ini-di-dunia-maya-khususnya.html",
+      "https://lewattin.blogspot.com/2019/06/selama-ini-kita-suka-menyamakan-film.html",
     ];
     /* Jika ingin menambah postingan, copas saja */
 
